@@ -1,0 +1,170 @@
+[
+    {
+        "imgUrl": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "-22.275086, 129.236689",
+        "location": "Australia",
+        "likes": 0,
+        "UserId": 1
+    },
+    {
+        "imgUrl": "https://www.ampersandtravel.com/media/424669/The-Oriental-Bangkok-Bangkok-Thailand-4-.jpg?mode=crop&width=1485",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "36.402949, -6.983641",
+        "location": "Spain",
+        "likes": 0,
+        "UserId": 3
+      },
+      {
+        "imgUrl": "https://www.nationalparks.fi/documents/10550/57498849/Koli_Ukko_MHElinaOde_1050.jpg/8834fd0b-0b84-9c7b-d50b-e4949ffc6159?t=1554189652034",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "45.878959, 14.562462",
+        "location": "Slovenia",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://media.architecturaldigest.com/photos/65df7c0d05482f22fe702c2c/16:9/w_2560%2Cc_limit/schoenste-staedte-europas-florenz.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "67.244387, 23.489133",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 3
+      },
+      {
+        "imgUrl": "https://onelifeadventures.com/wp-content/uploads/2021/07/tokyo_japan.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "67.198727, 25.602692",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 3
+      },
+      {
+        "imgUrl": "https://www.visitfinland.com/dam/jcr:eddd11e6-2410-44b4-a2de-b708f7e57d80/Kalliolta%20Puumala%20Norppapolku,pieni%20(3)%20Matti%20Vainikka.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "51.233048, 10.793504",
+        "location": "Austria",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://onelifeadventures.com/wp-content/uploads/2021/07/tokyo_japan.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "54.412191, -0.501648",
+        "location": "United Kingdom",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://www.ampersandtravel.com/media/424669/The-Oriental-Bangkok-Bangkok-Thailand-4-.jpg?mode=crop&width=1485",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "68.534721, 23.692914",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://www.usatoday.com/gcdn/-mm-/3f991ddc0528c91d4ede3315dee2fb9c0a3bfe0f/c=0-0-2129-1203/local/-/media/2015/05/13/USATODAY/USATODAY/635671291524055722-ThinkstockPhotos-458538233.jpg?width=2129&height=1203&fit=crop&format=pjpg&auto=webp",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "13.741470, 99.564855",
+        "location": "Thailand",
+        "likes": 0,
+        "UserId": 3
+      },
+      {
+        "imgUrl": "https://media.architecturaldigest.com/photos/65df7c0d05482f22fe702c2c/16:9/w_2560%2Cc_limit/schoenste-staedte-europas-florenz.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "-32.005327, 25.047066",
+        "location": "South Africa",
+        "likes": 0,
+        "UserId": 3
+      },
+      {
+        "imgUrl": "https://featuringfinland.com/wp-content/uploads/2021/05/Finland_Lapland_Kilpisjarvi_Saana_1.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "66.770196, 29.492575",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://www.visitfinland.com/dam/jcr:eddd11e6-2410-44b4-a2de-b708f7e57d80/Kalliolta%20Puumala%20Norppapolku,pieni%20(3)%20Matti%20Vainikka.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "-39.716305, 23.171695",
+        "location": "South Africa",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://featuringfinland.com/wp-content/uploads/2021/05/Finland_Lapland_Kilpisjarvi_Saana_1.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "62.310554, 22.869372",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://media.architecturaldigest.com/photos/65df7c0d05482f22fe702c2c/16:9/w_2560%2Cc_limit/schoenste-staedte-europas-florenz.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "63.791427, 24.172478",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://onelifeadventures.com/wp-content/uploads/2021/07/tokyo_japan.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "36.892197, 141.612708",
+        "location": "Japan",
+        "likes": 0,
+        "UserId": 3
+      },
+      {
+        "imgUrl": "https://www.ampersandtravel.com/media/424669/The-Oriental-Bangkok-Bangkok-Thailand-4-.jpg?mode=crop&width=1485",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "43.503628, 11.700360",
+        "location": "Italy",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://www.nationalparks.fi/documents/10550/57498849/Koli_Ukko_MHElinaOde_1050.jpg/8834fd0b-0b84-9c7b-d50b-e4949ffc6159?t=1554189652034",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "-31.648360, -58.268904",
+        "location": "Brazil",
+        "likes": 0,
+        "UserId": 1
+      },
+      {
+        "imgUrl": "https://theportablewife.com/wp-content/uploads/must-see-cities-for-first-time-in-europe-vienna.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "68.281404, 20.567126",
+        "location": "Finland",
+        "likes": 0,
+        "UserId": 2
+      },
+      {
+        "imgUrl": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/11/16160842/Ljublianica.jpg",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "45.232460, 14.928810",
+        "location": "Slovenia",
+        "likes": 0,
+        "UserId": 1
+      },
+      {
+        "imgUrl": "https://www.nationalparks.fi/documents/10550/57498849/Koli_Ukko_MHElinaOde_1050.jpg/8834fd0b-0b84-9c7b-d50b-e4949ffc6159?t=1554189652034",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "-33.065797, 24.832708",
+        "location": "South Africa",
+        "likes": 0,
+        "UserId": 1
+      },
+      {
+        "imgUrl": "https://www.nationalparks.fi/documents/10550/57498849/Koli_Ukko_MHElinaOde_1050.jpg/8834fd0b-0b84-9c7b-d50b-e4949ffc6159?t=1554189652034",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "coordinate": "-30.258804, -62.859582",
+        "location": "Brazil",
+        "likes": 0,
+        "UserId": 1
+      }
+]
