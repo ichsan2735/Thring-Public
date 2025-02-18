@@ -1,0 +1,107 @@
+[
+    {
+        "comment": "what a beautiful view right there!",
+        "UserId": 1,
+        "PostId": 1
+    },
+    {
+        "comment": "Absolutely breathtaking scenery! The colors are stunning 😍",
+        "UserId": 2,
+        "PostId": 5
+      },
+      {
+        "comment": "This place has been on my bucket list forever! How was the weather when you visited?",
+        "UserId": 1,
+        "PostId": 3
+      },
+      {
+        "comment": "The lighting in this photo is just perfect! What time of day was this taken?",
+        "UserId": 3,
+        "PostId": 8
+      },
+      {
+        "comment": "I visited here last summer - it's even more beautiful in person!",
+        "UserId": 2,
+        "PostId": 12
+      },
+      {
+        "comment": "The architecture is simply magnificent! Such rich history.",
+        "UserId": 1,
+        "PostId": 15
+      },
+      {
+        "comment": "Great shot! The composition really captures the essence of the place.",
+        "UserId": 3,
+        "PostId": 7
+      },
+      {
+        "comment": "This brings back so many memories from my trip there. Miss this place!",
+        "UserId": 2,
+        "PostId": 18
+      },
+      {
+        "comment": "The natural beauty here is unmatched. Need to visit soon!",
+        "UserId": 1,
+        "PostId": 4
+      },
+      {
+        "comment": "Love the perspective in this shot. Really shows the scale of the landscape!",
+        "UserId": 3,
+        "PostId": 11
+      },
+      {
+        "comment": "Such a peaceful looking spot. Perfect for meditation and reflection.",
+        "UserId": 2,
+        "PostId": 9
+      },
+      {
+        "comment": "The cultural heritage really shines through in this image. Beautiful capture!",
+        "UserId": 1,
+        "PostId": 16
+      },
+      {
+        "comment": "This looks like something out of a fairytale! 🏰✨",
+        "UserId": 3,
+        "PostId": 2
+      },
+      {
+        "comment": "The way the light hits the landscape is just magical. Great timing!",
+        "UserId": 2,
+        "PostId": 14
+      },
+      {
+        "comment": "I can almost feel the serenity through this photo. So calming.",
+        "UserId": 1,
+        "PostId": 20
+      },
+      {
+        "comment": "What camera did you use? The detail is incredible!",
+        "UserId": 3,
+        "PostId": 6
+      },
+      {
+        "comment": "This spot looks perfect for watching the sunset. Amazing view!",
+        "UserId": 2,
+        "PostId": 13
+      },
+      {
+        "comment": "The contrast between nature and architecture here is stunning!",
+        "UserId": 1,
+        "PostId": 17
+      },
+      {
+        "comment": "Such vibrant colors! Nature's palette is truly amazing.",
+        "UserId": 3,
+        "PostId": 1
+      },
+      {
+        "comment": "This place looks so peaceful early in the morning. Great capture!",
+        "UserId": 2,
+        "PostId": 19
+      },
+      {
+        "comment": "The traditional elements in this scene are so well preserved. Beautiful!",
+        "UserId": 1,
+        "PostId": 10
+      }
+]

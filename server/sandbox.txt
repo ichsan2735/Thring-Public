@@ -1,0 +1,14 @@
+- migration -
+npx sequelize-cli model:create --name User --attributes email:string,password:string
+npx sequelize-cli model:create --name Profile --attributes avatarUrl:string,username:string,bio:string,UserId:integer
+npx sequelize-cli model:create --name Post --attributes imgUrl:string,caption:string,coordinate:string,location:string,likes:integer,UserId:integer
+npx sequelize-cli model:create --name Comment --attributes comment:string,UserId:integer,PostId:integer
+npx sequelize-cli model:create --name Follower --attributes FollowersId:integer,FollowingId:integer
+
+- seeding -
+npx sequelize-cli seed:create --name seedUser
+npx sequelize-cli seed:create --name seedProfile
+npx sequelize-cli seed:create --name seedPost
+npx sequelize-cli seed:create --name seedComment
+npx sequelize-cli seed:create --name seedFollower
+
